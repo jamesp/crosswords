@@ -165,5 +165,6 @@
   "setter": "Yaffle",
   "name": "Soup",
   "created": "2021-02-04",
-  "publish": true
+  "description": "My first attempt at setting a cryptic crossword.",
+  "publish": false
 }
