@@ -1,0 +1,169 @@
+{
+  "N": 13,
+  "cells": [
+    "#___________#",
+    "#_#_#_#_#_#_#",
+    "____#________",
+    "#_###_#_#_#_#",
+    "________#____",
+    "#_#_###_#_###",
+    "______#______",
+    "###_#_###_#_#",
+    "____#________",
+    "#_#_#_#_###_#",
+    "________#____",
+    "#_#_#_#_#_#_#",
+    "#___________#"
+  ],
+  "clues": [
+    {
+      "number": 1,
+      "direction": "across",
+      "text": "",
+      "solution": "PENULTIMATE"
+    },
+    {
+      "number": 7,
+      "direction": "across",
+      "text": "",
+      "solution": "DRAW"
+    },
+    {
+      "number": 8,
+      "direction": "across",
+      "text": "",
+      "solution": "TAIL BONE"
+    },
+    {
+      "number": 9,
+      "direction": "across",
+      "text": "",
+      "solution": "BUDDLEIA"
+    },
+    {
+      "number": 11,
+      "direction": "across",
+      "text": "",
+      "solution": "TRIM"
+    },
+    {
+      "number": 12,
+      "direction": "across",
+      "text": "",
+      "solution": "NETTLE"
+    },
+    {
+      "number": 14,
+      "direction": "across",
+      "text": "",
+      "solution": "EVOLVE"
+    },
+    {
+      "number": 16,
+      "direction": "across",
+      "text": "",
+      "solution": "IDEA"
+    },
+    {
+      "number": 18,
+      "direction": "across",
+      "text": "",
+      "solution": "GLOSSARY"
+    },
+    {
+      "number": 20,
+      "direction": "across",
+      "text": "",
+      "solution": "OVERHEAD"
+    },
+    {
+      "number": 21,
+      "direction": "across",
+      "text": "",
+      "solution": "PEAR"
+    },
+    {
+      "number": 22,
+      "direction": "across",
+      "text": "",
+      "solution": "TAXIDERMIST"
+    },
+    {
+      "number": 1,
+      "direction": "down",
+      "text": "",
+      "solution": "PERFUME"
+    },
+    {
+      "number": 2,
+      "direction": "down",
+      "text": "",
+      "solution": "NOW"
+    },
+    {
+      "number": 3,
+      "direction": "down",
+      "text": "",
+      "solution": "LITHE"
+    },
+    {
+      "number": 4,
+      "direction": "down",
+      "text": "",
+      "solution": "IMITATE"
+    },
+    {
+      "number": 5,
+      "direction": "down",
+      "text": "",
+      "solution": "ALBATROSS"
+    },
+    {
+      "number": 6,
+      "direction": "down",
+      "text": "",
+      "solution": "ENNUI"
+    },
+    {
+      "number": 10,
+      "direction": "down",
+      "text": "",
+      "solution": "DOT MATRIX"
+    },
+    {
+      "number": 13,
+      "direction": "down",
+      "text": "",
+      "solution": "EGGHEAD"
+    },
+    {
+      "number": 15,
+      "direction": "down",
+      "text": "",
+      "solution": "VERDANT"
+    },
+    {
+      "number": 17,
+      "direction": "down",
+      "text": "",
+      "solution": "DUVET"
+    },
+    {
+      "number": 19,
+      "direction": "down",
+      "text": "",
+      "solution": "ORDER"
+    },
+    {
+      "number": 21,
+      "direction": "down",
+      "text": "",
+      "solution": "PHI"
+    }
+  ],
+  "values": "",
+  "setter": "Yaffle",
+  "name": "Soup",
+  "created": "2021-02-04",
+  "publish": true
+}
