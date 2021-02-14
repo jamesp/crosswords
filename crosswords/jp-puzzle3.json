@@ -1,0 +1,179 @@
+{
+  "N": 13,
+  "cells": [
+    "_______#_____",
+    "_#_#_#_#_###_",
+    "_________#___",
+    "_###_#_#_#_#_",
+    "___#_________",
+    "_#_#_###_#_##",
+    "______#______",
+    "##_#_###_#_#_",
+    "_________#___",
+    "_#_#_#_#_###_",
+    "___#_________",
+    "_###_#_#_#_#_",
+    "_____#_______"
+  ],
+  "clues": [
+    {
+      "number": 1,
+      "direction": "across",
+      "text": "Undermine",
+      "solution": "SUBVERT"
+    },
+    {
+      "number": 5,
+      "direction": "across",
+      "text": "Push",
+      "solution": "PRESS"
+    },
+    {
+      "number": 7,
+      "direction": "across",
+      "text": "Sailor's song",
+      "solution": "SEA SHANTY"
+    },
+    {
+      "number": 8,
+      "direction": "across",
+      "text": "Massage",
+      "solution": "RUB"
+    },
+    {
+      "number": 9,
+      "direction": "across",
+      "text": "Fish",
+      "solution": "EEL"
+    },
+    {
+      "number": 11,
+      "direction": "across",
+      "text": "Great idea!",
+      "solution": "BRAINWAVE"
+    },
+    {
+      "number": 12,
+      "direction": "across",
+      "text": "Mark",
+      "solution": "DENOTE"
+    },
+    {
+      "number": 13,
+      "direction": "across",
+      "text": "Decorative lace",
+      "solution": "EDGING"
+    },
+    {
+      "number": 15,
+      "direction": "across",
+      "text": "Science of Earth's crust",
+      "solution": "TECTONICS"
+    },
+    {
+      "number": 17,
+      "direction": "across",
+      "text": "Also",
+      "solution": "TOO"
+    },
+    {
+      "number": 18,
+      "direction": "across",
+      "text": "Piece of computer data",
+      "solution": "BIT"
+    },
+    {
+      "number": 19,
+      "direction": "across",
+      "text": "Generous",
+      "solution": "INDULGENT"
+    },
+    {
+      "number": 21,
+      "direction": "across",
+      "text": "Oven cook",
+      "solution": "ROAST"
+    },
+    {
+      "number": 22,
+      "direction": "across",
+      "text": "Indefinite pronoun",
+      "solution": "ANYBODY"
+    },
+    {
+      "number": 1,
+      "direction": "down",
+      "text": "Postpone",
+      "solution": "SUSPEND"
+    },
+    {
+      "number": 2,
+      "direction": "down",
+      "text": "Feather scarf",
+      "solution": "BOA"
+    },
+    {
+      "number": 3,
+      "direction": "down",
+      "text": "Show-off",
+      "solution": "EXHIBITIONIST"
+    },
+    {
+      "number": 4,
+      "direction": "down",
+      "text": "Pacific island nation",
+      "solution": "TONGA"
+    },
+    {
+      "number": 5,
+      "direction": "down",
+      "text": "Car park",
+      "solution": "PAY AND DISPLAY"
+    },
+    {
+      "number": 6,
+      "direction": "down",
+      "text": "Sword",
+      "solution": "SABRE"
+    },
+    {
+      "number": 8,
+      "direction": "down",
+      "text": "Accepting person",
+      "solution": "REALIST"
+    },
+    {
+      "number": 10,
+      "direction": "down",
+      "text": "Artform",
+      "solution": "LINOCUT"
+    },
+    {
+      "number": 14,
+      "direction": "down",
+      "text": "Shadowy",
+      "solution": "GHOSTLY"
+    },
+    {
+      "number": 15,
+      "direction": "down",
+      "text": "e.g. Potato",
+      "solution": "TUBER"
+    },
+    {
+      "number": 16,
+      "direction": "down",
+      "text": "Type of ink",
+      "solution": "INDIA"
+    },
+    {
+      "number": 20,
+      "direction": "down",
+      "text": "Green",
+      "solution": "ECO"
+    }
+  ],
+  "values": "",
+  "setter": "JP",
+  "name": "Quick #1"
+}
