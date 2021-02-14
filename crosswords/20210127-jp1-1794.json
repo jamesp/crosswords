@@ -1,0 +1,167 @@
+{
+  "N": 13,
+  "cells": [
+    "##__________#",
+    "_#_#_#_#_#_##",
+    "_____#_______",
+    "_#_#_#_###_#_",
+    "_________#___",
+    "_###_###_#_#_",
+    "______#______",
+    "_#_#_###_###_",
+    "___#_________",
+    "_#_###_#_#_#_",
+    "_______#_____",
+    "##_#_#_#_#_#_",
+    "#__________##"
+  ],
+  "clues": [
+    {
+      "number": 1,
+      "direction": "across",
+      "text": "",
+      "solution": "TABLECLOTH"
+    },
+    {
+      "number": 7,
+      "direction": "across",
+      "text": "",
+      "solution": "AGING"
+    },
+    {
+      "number": 8,
+      "direction": "across",
+      "text": "drink buddy? For sure!",
+      "solution": "TOTALLY"
+    },
+    {
+      "number": 10,
+      "direction": "across",
+      "text": "",
+      "solution": "KITTIWAKE"
+    },
+    {
+      "number": 12,
+      "direction": "across",
+      "text": "",
+      "solution": "YOU"
+    },
+    {
+      "number": 13,
+      "direction": "across",
+      "text": "",
+      "solution": "UNRIPE"
+    },
+    {
+      "number": 15,
+      "direction": "across",
+      "text": "",
+      "solution": "IGLOOS"
+    },
+    {
+      "number": 16,
+      "direction": "across",
+      "text": "",
+      "solution": "NOD"
+    },
+    {
+      "number": 17,
+      "direction": "across",
+      "text": "",
+      "solution": "REFLECTOR"
+    },
+    {
+      "number": 20,
+      "direction": "across",
+      "text": "",
+      "solution": "REACTOR"
+    },
+    {
+      "number": 22,
+      "direction": "across",
+      "text": "",
+      "solution": "YODEL"
+    },
+    {
+      "number": 23,
+      "direction": "across",
+      "text": "",
+      "solution": "STEPLEDDER"
+    },
+    {
+      "number": 1,
+      "direction": "down",
+      "text": "",
+      "solution": "TWIST"
+    },
+    {
+      "number": 2,
+      "direction": "down",
+      "text": "",
+      "solution": "BIGDIPPER"
+    },
+    {
+      "number": 3,
+      "direction": "down",
+      "text": "",
+      "solution": "EXTRA"
+    },
+    {
+      "number": 4,
+      "direction": "down",
+      "text": "",
+      "solution": "LOT"
+    },
+    {
+      "number": 5,
+      "direction": "down",
+      "text": "",
+      "solution": "TALLYHO"
+    },
+    {
+      "number": 6,
+      "direction": "down",
+      "text": "",
+      "solution": "BACKBURNER"
+    },
+    {
+      "number": 9,
+      "direction": "down",
+      "text": "",
+      "solution": "YOURSTRULY"
+    },
+    {
+      "number": 11,
+      "direction": "down",
+      "text": "",
+      "solution": "EAGLEEYED"
+    },
+    {
+      "number": 14,
+      "direction": "down",
+      "text": "",
+      "solution": "RADIANT"
+    },
+    {
+      "number": 18,
+      "direction": "down",
+      "text": "",
+      "solution": "FORGE"
+    },
+    {
+      "number": 19,
+      "direction": "down",
+      "text": "",
+      "solution": "TUDOR"
+    },
+    {
+      "number": 21,
+      "direction": "down",
+      "text": "",
+      "solution": "TAP"
+    }
+  ],
+  "values": "",
+  "setter": "Yaffle",
+  "name": "Puzzle #1"
+}

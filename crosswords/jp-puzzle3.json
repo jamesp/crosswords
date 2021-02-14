@@ -175,5 +175,7 @@
   ],
   "values": "",
   "setter": "JP",
-  "name": "Quick #1"
+  "name": "Quick #1",
+  "publish": true,
+  "description": "A puzzle in the style of the Times Quick Crossword. This is the 1st puzzle I have produced."
 }
