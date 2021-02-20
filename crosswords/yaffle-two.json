@@ -19,7 +19,7 @@
     {
       "number": 1,
       "direction": "across",
-      "text": "",
+      "text": "Tulip returned over to university for trial run",
       "solution": "PILOT"
     },
     {
@@ -43,7 +43,7 @@
     {
       "number": 10,
       "direction": "across",
-      "text": "",
+      "text": "Big dipper confused local restorer",
       "solution": "ROLLERCOASTER"
     },
     {
@@ -176,5 +176,5 @@
   "values": "",
   "setter": "Yaffle",
   "name": "Puzzle two",
-  "publish": false
+  "publish": true
 }
