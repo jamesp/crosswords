@@ -1,0 +1,180 @@
+{
+  "N": 13,
+  "cells": [
+    "_____#_______",
+    "_#_#_#_#_#_#_",
+    "_________#___",
+    "_###_#_#_#_#_",
+    "_____________",
+    "_#_#_#_###_##",
+    "______#______",
+    "##_###_#_#_#_",
+    "_____________",
+    "_#_#_#_#_###_",
+    "___#_________",
+    "_#_#_#_#_#_#_",
+    "_______#_____"
+  ],
+  "clues": [
+    {
+      "number": 1,
+      "direction": "across",
+      "text": "",
+      "solution": "PILOT"
+    },
+    {
+      "number": 4,
+      "direction": "across",
+      "text": "",
+      "solution": "STENCIL"
+    },
+    {
+      "number": 8,
+      "direction": "across",
+      "text": "Completely public and extinguished",
+      "solution": "OUT AND OUT"
+    },
+    {
+      "number": 9,
+      "direction": "across",
+      "text": "Military shortened outfit",
+      "solution": "ARM"
+    },
+    {
+      "number": 10,
+      "direction": "across",
+      "text": "",
+      "solution": "ROLLERCOASTER"
+    },
+    {
+      "number": 12,
+      "direction": "across",
+      "text": "",
+      "solution": "MUTATE"
+    },
+    {
+      "number": 13,
+      "direction": "across",
+      "text": "",
+      "solution": "ADRIFT"
+    },
+    {
+      "number": 17,
+      "direction": "across",
+      "text": "",
+      "solution": "STEERING WHEEL"
+    },
+    {
+      "number": 19,
+      "direction": "across",
+      "text": "",
+      "solution": "EBB"
+    },
+    {
+      "number": 20,
+      "direction": "across",
+      "text": "",
+      "solution": "SPRIGHTLY"
+    },
+    {
+      "number": 22,
+      "direction": "across",
+      "text": "Worry, tiny axe",
+      "solution": "ANXIETY"
+    },
+    {
+      "number": 23,
+      "direction": "across",
+      "text": "Relation requires some adoration",
+      "solution": "RATIO"
+    },
+    {
+      "number": 1,
+      "direction": "down",
+      "text": "Computer code for metric units",
+      "solution": "PROGRAM"
+    },
+    {
+      "number": 2,
+      "direction": "down",
+      "text": "Learner starts to exceed time allowed",
+      "solution": "LET"
+    },
+    {
+      "number": 3,
+      "direction": "down",
+      "text": "Bronze chap goes off on one!",
+      "solution": "TANGENT"
+    },
+    {
+      "number": 4,
+      "direction": "down",
+      "text": "",
+      "solution": "SLOUCH"
+    },
+    {
+      "number": 5,
+      "direction": "down",
+      "text": "Wild T-Rex, a bit part",
+      "solution": "EXTRA"
+    },
+    {
+      "number": 6,
+      "direction": "down",
+      "text": "Mad sole acting without good boundary.",
+      "solution": "COASTLINE"
+    },
+    {
+      "number": 7,
+      "direction": "down",
+      "text": "Primate boxing big bird, left and right.",
+      "solution": "LEMUR"
+    },
+    {
+      "number": 11,
+      "direction": "down",
+      "text": "",
+      "solution": "LETTER BOX"
+    },
+    {
+      "number": 14,
+      "direction": "down",
+      "text": "Bet soiree of weathly widow",
+      "solution": "DOWAGER"
+    },
+    {
+      "number": 15,
+      "direction": "down",
+      "text": "Count up cry when quarry spotted",
+      "solution": "TALLY-HO"
+    },
+    {
+      "number": 16,
+      "direction": "down",
+      "text": "",
+      "solution": "ENERGY"
+    },
+    {
+      "number": 17,
+      "direction": "down",
+      "text": "Queen of cat food",
+      "solution": "SHEBA"
+    },
+    {
+      "number": 18,
+      "direction": "down",
+      "text": "",
+      "solution": "ROSIE"
+    },
+    {
+      "number": 21,
+      "direction": "down",
+      "text": "",
+      "solution": "TIT"
+    }
+  ],
+  "values": "",
+  "setter": "Yaffle",
+  "name": "Puzzle two",
+  "publish": false
+}
